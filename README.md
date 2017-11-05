@@ -23,15 +23,15 @@ Converge Criteria: It was observed by the time the counter for anyone node reach
 
 # LARGEST NETWORK #
 
-A) GOSSIP
-  i) Full:10000
-  ii) Imperfect 2D:20000
-  iii) 2D:10000
-  iv) Line:5000
+A) GOSSIP Protocol
+  i) Full Topology:10000 nodes
+  ii) Imperfect 2D Topology:20000 nodes
+  iii) 2D Topology:10000 nodes 
+  iv) Line Topology:5000 nodes
   
 
-B) PUSH SUM
-  i) Full: 10000 
-  ii) Imperfect 2D: 30000 time: 23078
-  iii) 2D: 5000
-  iv) Line: 5000
+B) PUSH SUM Protocol
+  i) Full Topology: 10000 nodes
+  ii) Imperfect 2D Topology: 30000 nodes time: 23078
+  iii) 2D Topology: 5000 nodes
+  iv) Line Topology: 5000 nodes
