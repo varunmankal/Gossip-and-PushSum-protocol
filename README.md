@@ -1,12 +1,3 @@
-##########################
-######## PROJECT 2 ####### 
-#### GOSSIP SIMULATOR ####
-############3#############
-
-#Group members#
-1) Raheen Mazgaonkar, UFID: 47144316
-2) Varun Mankal, UFID: 04827615
-
 #Implementation Details:#
 
 Genserver module of elixir was used for implementation of actors. All communication is assumed to be asynchronous.
@@ -33,10 +24,10 @@ Converge Criteria: It was observed by the time the counter for anyone node reach
 # LARGEST NETWORK #
 
 A) GOSSIP
-  i) Full:
-  ii) Imperfect 2D:
-  iii) 2D:
-  iv) Line:
+  i) Full:10000
+  ii) Imperfect 2D:20000
+  iii) 2D:10000
+  iv) Line:5000
   
 
 B) PUSH SUM
